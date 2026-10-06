@@ -42,3 +42,21 @@ body {
     left: 530px;
   
 }
+
+
+.vertBox2 {
+    position: fixed;
+    top: 320px;
+    right: 1100px;
+    left: 530px;
+  
+}
+
+
+.vertBox3 {
+    position: fixed;
+    top: 450px;
+    right: 1100px;
+    left: 530px;
+  
+}

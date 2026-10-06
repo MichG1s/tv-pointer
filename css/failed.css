@@ -18,7 +18,7 @@ header {
    
 
 body {
-   background-image: url(../png/pixil-frame-0\ \(14\).png);
+   background-image: url(../png/pixil-frame-0\ \(21\).png);
 
    background-position: center center;
    background-repeat: no-repeat;
@@ -33,4 +33,6 @@ body {
 .center {
    display: flex;
    justify-content: center;
+   margin: auto;
 }
+
