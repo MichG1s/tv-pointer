@@ -1,0 +1,44 @@
+header {
+  text-align: center;
+  padding: 10px;
+
+
+ }
+ 
+ 
+ h1 {
+    color: rgb(231, 102, 189);
+ }
+
+.center {
+   display: flex;
+   justify-content: center;
+}
+
+   
+
+body {
+   background-image: url(../png/pixil-frame-0\ \(18\).png);
+
+   background-position: center center;
+   background-repeat: no-repeat;
+   background-attachment:fixed;
+   background-size: contain;
+  
+}
+ h1 {
+    color: rgb(231, 102, 189);
+ }
+
+.center {
+   display: flex;
+   justify-content: center;
+}
+
+.vertBox {
+    position: fixed;
+    top: 140px;
+    right: 1100px;
+    left: 530px;
+  
+}
