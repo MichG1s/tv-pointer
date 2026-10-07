@@ -18,7 +18,7 @@ header {
    
 
 body {
-   background-image: url(../png/pixil-frame-0\ \(18\).png);
+   background-image: url(../png/pixil-frame-0\ \(25\).png);
 
    background-position: center center;
    background-repeat: no-repeat;
@@ -59,4 +59,11 @@ body {
     right: 1100px;
     left: 530px;
   
+}
+
+.center.homeButton {
+   margin-top: 642px;
+  margin-bottom: 100px;
+  margin-right: 150px;
+  margin-left: 830px
 }
