@@ -1,0 +1,9 @@
+@font-face {
+    font-family: "Fontpixl";
+    src: url(../font/Lift\ Service\ Text.ttf);
+}
+
+body {
+    font-family: "fontpixl";
+    font-size: larger;
+}

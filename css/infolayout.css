@@ -18,7 +18,7 @@ header {
    
 
 body {
-   background-image: url(../png/pixil-frame-0\ \(25\).png);
+   background-image: url(../png/info5.0.png);
 
    background-position: center center;
    background-repeat: no-repeat;
@@ -62,8 +62,20 @@ body {
 }
 
 .center.homeButton {
-   margin-top: 642px;
+   margin-top: 635px;
   margin-bottom: 100px;
-  margin-right: 150px;
-  margin-left: 830px
+  margin-right: 190px;
+  margin-left: 830px;
+  width: 565px;
+  
+}
+
+
+/* footer {
+   display: block;
+   background-color: blueviolet;
+} */
+
+img {
+   position: fixed;
 }

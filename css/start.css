@@ -18,8 +18,7 @@ header {
    
 
 body {
-   background-image: url(../png/pixil-frame-0\ \(11\).png);
-
+   background-image: url(../png/start5.0.png);
    background-position: center center;
    background-repeat: no-repeat;
    background-attachment:fixed;
@@ -41,7 +40,7 @@ h2 {
   display: inline-flex;
   align-items: center;
   justify-content: center;
-  border: 3px dotted rgb(96 139 168);
+  border: 3px solid rgb(46, 58, 223);
   background-color: lavender;
 }
 
@@ -59,19 +58,31 @@ div.static {
 
   #option1 {
     position: fixed;
-    top: 370px;
+    top: 352px;
     right: 920px;
-    left: 900px;
+    left: 800px;
+     height: 110px;
+    width: 290px;
 }
 
 #option2 {
   position: fixed;
     top: 210px;
     right: 920px;
-    left: 900px;   
+    left: 800px;   
+    height: 110px;
+    width: 290px;
 }
 
  #option3 {
    position: fixed;
-   top: 90px;
+   top: 75px;
+   width: 820px;
+   height: 100px;
+ }
+
+ img {
+  image-rendering: crisp-edges;
+  image-rendering: pixelated;
+  image-rendering: -moz-crisp-edges;
  }

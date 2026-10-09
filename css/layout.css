@@ -10,7 +10,7 @@
  
  
  h1 {
-    color: rgb(231, 102, 189);
+    color: rgb(59, 48, 158);
  }
 
 .center {
@@ -24,8 +24,10 @@ h2 {
   display: inline-flex;
   align-items: center;
   justify-content: center;
-  border: 3px dotted rgb(96 139 168);
+  border: 3px solid rgb(96 139 168);
   background-color: lavender;
+  padding: 10px;
+  margin: 10px;
 }
 
 .box div {
@@ -36,6 +38,14 @@ h2 {
   background-color: rgba(58, 83, 138, 0.2);
 }
 
-body {
+html {
    background-image: url(../png/pixil-frame-0\ \(9\).png);
+}
+
+img#Mark {
+   float: initial;
+}
+
+img#mg1 {
+   margin: -500px;
 }
